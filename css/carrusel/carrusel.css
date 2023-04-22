@@ -1,0 +1,25 @@
+.carrusel{
+    height: 600px;
+}
+
+/* Primer imagen del carrusel */
+.item1{
+    background: url(/img/Carrusel/car1.jpg) center no-repeat;
+    height: 450px;
+    background-size: cover;
+}
+
+/* Segunda imagen del carrusel */
+.item2{
+    background: url(/img/Carrusel/car2.jpg) center no-repeat;
+    height: 450px;
+    background-size: cover;
+    
+}
+
+/* Tercer imagen del carrusel */
+.item3{
+    background: url(/img/Carrusel/car3.jpg) center no-repeat;
+    height: 450px;
+    background-size: cover;
+}
