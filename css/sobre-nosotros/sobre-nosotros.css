@@ -1,0 +1,38 @@
+.nosotros{
+    height: 600px;
+    
+    max-width: 100%;
+}
+
+.container-sobre-nosotros{
+    display: flex;
+    position: relative;
+    bottom: 100px;
+    justify-content: center;
+    
+}
+
+.titulo-sobre-nosotros{
+    font-size: 1.3rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.parrafo-sobre-nosotros{
+    text-align:justify;
+    padding: 10px 10px 300px 40px;
+}
+
+.img-nosotros1{
+    background-color: aquamarine;
+    height: 400px;
+    background-image: url(../../img/Carrusel/car1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.contenedor-img1{
+    position: relative;
+    bottom: 70px;
+}
