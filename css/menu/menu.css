@@ -1,7 +1,12 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
 .navbar{
     padding: 1rem;
     background-color: #f5f6f7;
-    font-size: 1rem;
+    font-size: 1.25rem;
     font-family: 'Montserrat', sans-serif;
 }
 .navbar-collapse{
@@ -14,3 +19,32 @@
 a.nav-link{
     color: black;
 }
+
+
+/*Estilos para moviles*/
+
+@media screen and (max-width:767px) {
+   
+    
+}
+
+@media screen and (max-width:700px) {
+    .logotipo{
+        display: block;
+        margin: 0 auto;
+    }
+
+    .navbar-nav{
+        position: relative;
+        bottom: 10px;
+        font-size: 1.25rem;
+        
+    }
+
+  
+
+       
+ 
+       
+}
+    
