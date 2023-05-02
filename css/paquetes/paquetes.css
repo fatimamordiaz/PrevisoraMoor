@@ -3,7 +3,7 @@
 }
 .paquetes{
     height: 600px;
-    max-width: 99%;
+    max-width: 97%;
 }
 .container-titulo-paquetes{
     display: flex;
@@ -31,13 +31,10 @@
         background-color: rgb(255, 0, 255);
         }
     
-    
-        
-    
   }
 
 
-/*Estilos para moviles*/
+/*Estilos para Tabletas*/
 
 @media screen and (max-width:767px) {
 .container-titulo-paquetes{
@@ -53,16 +50,16 @@
 }
 
 
-/*Estilos para tablets*/
+/*Estilos para Moviles*/
 @media screen and (max-width:700px) {
     .container-titulo-paquetes{
-        top: 210px;
+        top: 120px;
         position: relative;
         background-color: rgb(17, 255, 0);
     }
     .tarjetas-paquetes{
         position: relative;
-        top: 220px;
+        top: 70px;
     }
 
     .card{
