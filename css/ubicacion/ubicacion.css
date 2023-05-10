@@ -1,0 +1,12 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.ubicacion{
+    width: 99%;
+}
+.container-titulo-mapa{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 150px;
+}
