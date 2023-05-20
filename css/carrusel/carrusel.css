@@ -2,6 +2,16 @@
     height: 600px;
 }
 
+
+
+/* Afectamos txt del carrusel */
+.primer__titulo, .primer__parrafo{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+
 /* Primer imagen del carrusel */
 .item1{
     background: url(../../img/Carrusel/car1.jpg) center no-repeat;
