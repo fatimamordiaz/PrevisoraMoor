@@ -8,3 +8,32 @@
     max-width: 1200px;
     margin: auto;
 }
+
+
+
+
+
+/*Estilos para Tabletas*/
+
+@media screen and (max-width:767px) {
+.pie-pagina{
+    top: 180px;
+    position: relative;
+    
+    }
+
+
+
+/*Estilos para Moviles*/
+@media screen and (max-width:700px) {
+    .pie-pagina{
+        top: 120px;
+        position: relative;
+        
+   
+    
+
+       
+}
+}
+}
