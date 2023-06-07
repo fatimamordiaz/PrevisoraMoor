@@ -1,14 +1,13 @@
-.pie-pagina{
+.footer{
     width: 100%;
     background-color:#a97070;
     text-align: center;
 }
-.pie-pagina .grupo-1{
+.footer .grupo-1{
     width: 100%;
     max-width: 1200px;
     margin: auto;
 }
-
 
 
 
@@ -29,10 +28,6 @@
     .pie-pagina{
         top: 120px;
         position: relative;
-        
-   
-    
-
        
 }
 }
