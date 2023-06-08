@@ -15,7 +15,7 @@
 /*Estilos para Tabletas*/
 
 @media screen and (max-width:767px) {
-.pie-pagina{
+.container-footer{
     top: 180px;
     position: relative;
     
@@ -25,7 +25,7 @@
 
 /*Estilos para Moviles*/
 @media screen and (max-width:700px) {
-    .pie-pagina{
+    .container-footer{
         top: 120px;
         position: relative;
        
