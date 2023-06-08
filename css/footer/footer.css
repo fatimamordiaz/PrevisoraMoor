@@ -1,7 +1,16 @@
-.footer{
+.container-footer{
+    position: relative;
+    top:100px;
+    background-color:#a97070; 
     width: 100%;
-    background-color:#a97070;
+    height: 350px;
+}
+
+
+.footer{
+
     text-align: center;
+
 }
 .footer .grupo-1{
     width: 100%;
@@ -10,25 +19,26 @@
 }
 
 
-
-
 /*Estilos para Tabletas*/
 
 @media screen and (max-width:767px) {
-.container-footer{
-    top: 180px;
-    position: relative;
-    
+    .footer{
+        position: relative;
+        top: 450px;
     }
+}
+
 
 
 
 /*Estilos para Moviles*/
 @media screen and (max-width:700px) {
-    .container-footer{
-        top: 120px;
+
+    .footer{
         position: relative;
-       
-}
-}
+        top: 1250px;
+    }
+    
+
+
 }

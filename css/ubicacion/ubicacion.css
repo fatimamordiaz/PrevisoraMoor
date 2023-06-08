@@ -4,6 +4,11 @@
 .ubicacion{
     width: 99%;
 }
+
+.titulo-ubi{
+    font-size: 1.3rem;
+    font-weight: 600;
+}
 .container-titulo-mapa{
     display: flex;
     justify-content: center;
