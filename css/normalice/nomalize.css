@@ -32,7 +32,10 @@ body {
   
   /* Establece el tamaño de fuente predeterminado para encabezados */
   h1, h2, h3, h4, h5, h6 {
-    font-size: 1em;
+    font-size: 15em;
+    text-align: center;
+    color: rgb(25, 0, 255);
+    font-weight: bold;
   }
   
   /* Establece el estilo de enlaces */
